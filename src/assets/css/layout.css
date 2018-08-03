@@ -1,0 +1,17 @@
+/*---------------- 面包屑 ------------------*/
+.breadcrumb{
+  width:1200px;
+  margin:0 auto;
+  padding:45px 0;
+}
+.breadcrumb ul li{
+  float: left;
+  padding-right:10px;
+}
+.breadcrumb ul li a{
+  padding-right:10px;
+  color: #333;
+}
+.breadcrumb ul li:last-child{
+  color: #ddbd53;
+}
